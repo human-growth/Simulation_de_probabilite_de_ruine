@@ -1,4 +1,4 @@
-# 📘 Simulation de la probabilité de ruine
+# Simulation de la probabilité de ruine
 
 ## Objectif
 Simuler la probabilité de ruine d’un assureur avec le modèle de Cramér–Lundberg et étudier l’effet de la réassurance.
